@@ -14,7 +14,7 @@
 <meta property="og:description" content="introduceA language model is a probablity distribution over a sequence of words. Given a sequence of words of length $m$, a LM is assign a probabilty $P(w_1,w_2,…,w_n)$ to the whole sequence. Language">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2023-07-06T07:33:24.000Z">
-<meta property="article:modified_time" content="2023-07-06T11:52:58.932Z">
+<meta property="article:modified_time" content="2023-07-07T04:09:15.653Z">
 <meta property="article:author" content="Linzw">
 <meta name="twitter:card" content="summary">
     
@@ -81,6 +81,8 @@
     <span id="actions">
       <ul>
         
+        <li><a class="icon" aria-label="Previous post" href="/2023/07/07/Regular-Expressions/"><i class="fa-solid fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i></a></li>
+        
         
         <li><a class="icon" aria-label="Next post" href="/2023/07/06/Can-AI-Generated-Text-be-Reliably-Detected/"><i class="fa-solid fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i></a></li>
         
@@ -112,7 +114,7 @@
     
     
       <div id="toc">
-        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#introduce"><span class="toc-number">1.</span> <span class="toc-text">introduce</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Model"><span class="toc-number">1.1.</span> <span class="toc-text">Model</span></a></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#introduce"><span class="toc-number">1.</span> <span class="toc-text">introduce</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Model"><span class="toc-number">2.</span> <span class="toc-text">Model</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Log-bilinear-Language-Model"><span class="toc-number">2.1.</span> <span class="toc-text">Log-bilinear Language Model</span></a></li></ol></li></ol>
       </div>
     
   </span>
@@ -157,7 +159,7 @@
 <p>Language model has been widely used to solve problems in computational linguisitic, from inital application in speech recognition to ensure nonsensical word sequences are banned, to machine translation(scoring the candidate translations), neural network generation(generating more human-like text), and so on.</p>
 <p>Language model can be used to construct query likelihood model. There, a seperate language model is associate with each document in collections. Documents are ranked based on the probability of the query $Q$ in document’s language model.</p>
 <p>Since 2018, large language models consisting of deep neural networks with billions of trainable parameters, trained on massive datasets of unlabeled text, have demonstrated impressive result on a wide variety of neural language tasks. This development led to a trend in research focus toward the use of general-purpose LLMs.</p>
-<h3 id="Model"><a href="#Model" class="headerlink" title="Model"></a>Model</h3>
+<h2 id="Model"><a href="#Model" class="headerlink" title="Model"></a>Model</h2><h3 id="Log-bilinear-Language-Model"><a href="#Log-bilinear-Language-Model" class="headerlink" title="Log-bilinear Language Model"></a>Log-bilinear Language Model</h3>
   </div>
 </article>
 
@@ -184,7 +186,7 @@
     
     
       <div id="toc-footer" style="display: none">
-        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#introduce"><span class="toc-number">1.</span> <span class="toc-text">introduce</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Model"><span class="toc-number">1.1.</span> <span class="toc-text">Model</span></a></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#introduce"><span class="toc-number">1.</span> <span class="toc-text">introduce</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Model"><span class="toc-number">2.</span> <span class="toc-text">Model</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Log-bilinear-Language-Model"><span class="toc-number">2.1.</span> <span class="toc-text">Log-bilinear Language Model</span></a></li></ol></li></ol>
       </div>
     
 
