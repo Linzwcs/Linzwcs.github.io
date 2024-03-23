@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Zhilin Wang, an undergraduate students at Jilin University. I'm interested in NLP and hope to create a livly Ai gril friend in the future, hahaha, fine. In fact, I dont't think I'm not a clever person, and always fail in various fields. For this reason, I strive in my studies, especailly english, and offten get nervous. To alleviate my stress, I tell myself that it's okay to try my best regardless of the results. Fortunately, my efforts have already been rewarded, and I've achieved a relatvely great success in my opinion. Finally, I'll keep going in the future.
+Hello, I'm Zhilin Wang, an undergraduate students at Jilin University. I'm interested in NLP and hope to create a livly Ai girl friend in the future, hahaha, fine. In fact, I dont't think I'm not a clever person, and always fail in various fields. For this reason, I strive in my studies, especailly english, and offten get nervous. To alleviate my stress, I tell myself that it's okay to try my best regardless of the results. Fortunately, my efforts have already been rewarded, and I've achieved a relatvely great success in my opinion. Finally, I'll keep going in the future.
 
 ---
 
