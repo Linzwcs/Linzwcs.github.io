@@ -4,20 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, I'm Zhilin Wang, an undergraduate students at Jilin University. I used to focus on detection tasks in NLP, such as sarcasm detection or AI text detection. Recently, I have read some papers about agent, RAG, and LLMs alignment, and I want to do something interesting in these fields
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Neural Language Processing:** AI text detection, RAG, LLMs alignment
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %}-->
+
+## Intern
+
+- westlake university visiting student, 2023.7 ~ 2023.9
+
+## Awards
+
+- Huawei ICT Competition: Global Grand Prize, 2023
+- Computer Games: First Prize, 2023
+- CCF BDCI: Third Prize, 2022
+- The First Prize Scholarship, 2022~2023
+- The First Prize Scholarship, 2023~2024
