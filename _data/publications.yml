@@ -8,6 +8,23 @@ main:
   #  bibtex: https://bib.yliu.me/MICCAI23.txt
   #  image: ./assets/img/teaser_example_2.png
   #  notes: Early Accept
+  - title: "Spotting AI’s Touch: Identifying LLM-Paraphrased Spans in Text."
+    authors: Yafu Li*, <strong>Zhilin Wang*</strong>, Leyang Cui, Wei Bi, Shuming Shi, Yue Zhang
+    conference_short: ACL
+    conference: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
+    pdf: https://aclanthology.org/2023.acl-long.566.pdf
+    bibtex: https://aclanthology.org/2023.acl-long.566.bib
+    code: https://github.com/Linzwcs/PASTED
+    image: ./assets/img/paper/Spot_AI.png
+
+  - title: "DETect: Deepfake Text Detection in the Wild"
+    authors: Yafu Li, Qintong Li, Leyang Cui, Wei Bi, <strong>Zhilin Wang</strong>, Longyue Wang, Linyi Yang, Shuming Shi, Yue Zhang
+    conference_short: ACL
+    conference: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
+    pdf: https://aclanthology.org/2023.acl-long.566.pdf
+    bibtex: https://aclanthology.org/2023.acl-long.566.bib
+    code: https://github.com/yafuly/DeepfakeTextDetect
+    image: ./assets/img/paper/deepfake.png
 
   - title: "Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction"
     authors: Changrong Min, Ximing Li, Liang Yang, <strong>Zhilin Wang</strong>, Bo Xu, and Hongfei Lin
