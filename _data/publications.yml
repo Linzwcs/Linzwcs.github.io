@@ -12,8 +12,8 @@ main:
     authors: Yafu Li*, <strong>Zhilin Wang*</strong>, Leyang Cui, Wei Bi, Shuming Shi, Yue Zhang
     conference_short: ACL
     conference: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
-    pdf: https://aclanthology.org/2023.acl-long.566.pdf
-    bibtex: https://aclanthology.org/2023.acl-long.566.bib
+    pdf: https://arxiv.org/pdf/2405.12689
+    bibtex: https://arxiv.org/abs/2405.12689
     code: https://github.com/Linzwcs/PASTED
     image: ./assets/img/paper/Spot_AI.png
 
@@ -21,9 +21,9 @@ main:
     authors: Yafu Li, Qintong Li, Leyang Cui, Wei Bi, <strong>Zhilin Wang</strong>, Longyue Wang, Linyi Yang, Shuming Shi, Yue Zhang
     conference_short: ACL
     conference: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
-    pdf: https://aclanthology.org/2023.acl-long.566.pdf
-    bibtex: https://aclanthology.org/2023.acl-long.566.bib
-    code: https://github.com/yafuly/DeepfakeTextDetect
+    pdf: https://arxiv.org/pdf/2305.13242
+    bibtex: https://github.com/yafuly/MAGE
+    code: https://github.com/yafuly/MAGE
     image: ./assets/img/paper/deepfake.png
 
   - title: "Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction"
