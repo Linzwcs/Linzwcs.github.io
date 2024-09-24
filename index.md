@@ -14,7 +14,7 @@ Hello, I'm Zhilin Wang, an undergraduate students at Jilin University. I used to
 
 ## Research Interests
 
-- **Neural Language Processing:** AI text detection, RAG, LLMs alignment
+- **Neural Language Processing:** AI text detection, paraphrase, Moe, Continue learning.
 
 ## Projects
 
@@ -26,14 +26,20 @@ Hello, I'm Zhilin Wang, an undergraduate students at Jilin University. I used to
 
 <!-- {% include_relative _includes/services.md %}-->
 
-## Intern
+## Experience
 
-- westlake university visiting student, 2023.7 ~ 2023.9
+- Shanghai Ai Lab, 2024.9 ~ present
+
+- WestlakeNLP visiting student, 2023.7 ~ 2023.9 & 2024.6 ~ 2023.8
+
+- Jilin University 2021.8 ~ present
 
 ## Awards
 
 - Huawei ICT Competition: Global Grand Prize, 2023
+
 - Computer Games: First Prize, 2023
+
 - CCF BDCI: Third Prize, 2022
-- The First Prize Scholarship, 2022~2023
-- The First Prize Scholarship, 2023~2024
+
+- The First Prize Scholarship, 2022~2023 & 2023~2024
