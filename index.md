@@ -10,11 +10,15 @@ layout: homepage
 
 ## About Me
 
-Hello, I'm Zhilin Wang, an undergraduate students at Jilin University. I used to focus on detection tasks in NLP, such as sarcasm detection or AI text detection. Recently, I have read some papers about agent, RAG, and LLMs alignment, and I want to do something interesting in these fields
+Hello, I’m Zhilin Wang, an undergraduate student at Jilin University. Previously, I studied as a visiting student under the supervision of Yue Zhang at WestlakeNLP. I am now preparing to pursue a PhD supervised by Yu Cheng at the University of Science and Technology of China and the Shanghai AI Lab.
+Currently, I'm working on MoE with Continue learning.
 
 ## Research Interests
 
-- **Neural Language Processing:** AI text detection, paraphrase, Moe, Continue learning.
+- **NLP application:** AI text detection, paraphrase.
+- **LLM Structure:** MoE
+- **LLM training:** Continue Learning
+- **Ai Infra**
 
 ## Projects
 
@@ -32,7 +36,7 @@ Hello, I'm Zhilin Wang, an undergraduate students at Jilin University. I used to
 
 - WestlakeNLP visiting student, 2023.7 ~ 2023.9 & 2024.6 ~ 2023.8
 
-- Jilin University 2021.8 ~ present
+- Jilin University, 2021.8 ~ present
 
 ## Awards
 
