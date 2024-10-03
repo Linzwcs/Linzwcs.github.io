@@ -10,7 +10,7 @@ layout: homepage
 
 ## About Me
 
-Hello, I’m Zhilin Wang, an undergraduate student at Jilin University. Previously, I studied as a visiting student under the supervision of Yue Zhang at WestlakeNLP. I am now preparing to pursue a PhD supervised by Yu Cheng at the University of Science and Technology of China and the Shanghai AI Lab.
+Hello, I’m Zhilin Wang, an undergraduate student at Jilin University. Previously, I studied as a visiting student under the supervision of Yue Zhang@wias at WestlakeNLP. I am now preparing to pursue a PhD supervised by Yu Cheng@CUHK at the University of Science and Technology of China and the Shanghai AI Lab.
 Currently, I'm working on MoE with Continue learning.
 
 ## Research Interests
