@@ -15,6 +15,7 @@ Currently, I'm working on MoE with Continue learning.
 
 ## Research Interests
 
+
 - **NLP application:** AI text detection, paraphrase.
 - **LLM Structure:** MoE
 - **LLM training:** Continue Learning
@@ -23,12 +24,15 @@ Currently, I'm working on MoE with Continue learning.
 ## Projects
 
 - [PASTED](https://detect.westlake.edu.cn/ptd/): A paraphrased text span detection method, which recognizes the distinct writing patterns of AI-paraphrased spans compared to the surrounding text.<i class="fa fa-github" aria-hidden="true"></i> [Repo](https://github.com/Linzwcs/PASTED)
+
 - [DeTect](https://detect.westlake.edu.cn/#/): AI-generated text detection system built on a comprehensive dataset containing 447,674 human-written and machine-generated texts from various sources. <i class="fa fa-github" aria-hidden="true"></i> [Repo](https://github.com/yafuly/DeepfakeTextDetect)
+
 - **Computer-Graphics-Lab-For-JLU**: Developed to update Jilin University's Computer Graphics course experiments, based on games101 and including a complete implementation of a rendering pipeline.<i class="fa fa-github" aria-hidden="true"></i> [Repo](https://github.com/Linzwcs/Computer-Graphics-Lab-For-JLU)
 
-{% include_relative _includes/publications.md %}
 
+{% include_relative _includes/publications.md %}
 <!-- {% include_relative _includes/services.md %}-->
+
 
 ## Experience
 
@@ -47,3 +51,7 @@ Currently, I'm working on MoE with Continue learning.
 - CCF BDCI: Third Prize, 2022
 
 - The First Prize Scholarship, 2022~2023 & 2023~2024
+
+## Service
+
+- Volunteer at NLPCC 2024
