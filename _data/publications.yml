@@ -8,6 +8,15 @@ main:
   #  bibtex: https://bib.yliu.me/MICCAI23.txt
   #  image: ./assets/img/teaser_example_2.png
   #  notes: Early Accept
+  - title: "From Drafts to Answers: Unlocking LLM Potential via Aggregation Fine-Tuning"
+    authors: Yafu Li*, <strong>Zhilin Wang*</strong>, Tingchen Fu, Ganqu Cui, Sen Yang, Yu Cheng
+    conference_short: Arxiv
+    #rence: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
+    pdf: https://arxiv.org/abs/2501.11877
+    bibtex: https://github.com/Linzwcs/AFT
+    code: https://github.com/Linzwcs/AFT
+    image: ./assets/img/paper/From_draft.png
+
   - title: "Spotting AI’s Touch: Identifying LLM-Paraphrased Spans in Text."
     authors: Yafu Li*, <strong>Zhilin Wang*</strong>, Leyang Cui, Wei Bi, Shuming Shi, Yue Zhang
     conference_short: ACL
