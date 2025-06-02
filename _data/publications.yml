@@ -10,28 +10,39 @@ main:
   #  notes: Early Accept
   - title: "Unveiling Attractor Cycles in Large Language Models: A Dynamical Systems View of Successive Paraphrasing"
     authors:  <strong>Zhilin Wang*</strong>, Yafu Li*, Jianhao Yan, Yu Cheng, Yue Zhang
-    conference_short: Arxiv
-    #rence: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
-    pdf: https://arxiv.org/abs/2502.15208
+    conference_short: ACL
+    code: https://github.com/Linzwcs/A-Dynamical-Systems-View-of-Successive-Paraphrasing
+    pdf: https://arxiv.org/pdf/2502.15208
     image: ./assets/img/paper/Paraphrase.png
+
+  - title: "SEE: Continual Fine-tuning with Sequential Ensemble of Experts"
+    authors:  <strong>Zhilin Wang</strong>, Yafu Li, Xiaoye Qu, Yu Cheng
+    conference_short: ACL findings
+    code: https://github.com/Linzwcs/SEE
+    pdf: https://arxiv.org/pdf/2504.06664
+    image: ./assets/img/paper/SEE.jpg
 
   - title: "From Drafts to Answers: Unlocking LLM Potential via Aggregation Fine-Tuning"
     authors: Yafu Li*, <strong>Zhilin Wang*</strong>, Tingchen Fu, Ganqu Cui, Sen Yang, Yu Cheng
     conference_short: Arxiv
-    #rence: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
     pdf: https://arxiv.org/abs/2501.11877
-    bibtex: https://github.com/Linzwcs/AFT
     code: https://github.com/Linzwcs/AFT
     image: ./assets/img/paper/From_draft.png
 
   - title: "Spotting AI’s Touch: Identifying LLM-Paraphrased Spans in Text"
     authors: Yafu Li*, <strong>Zhilin Wang*</strong>, Leyang Cui, Wei Bi, Shuming Shi, Yue Zhang
-    conference_short: ACL
+    conference_short: ACL findings
     conference: In Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics, 2024.
     pdf: https://arxiv.org/pdf/2405.12689
-    bibtex: https://arxiv.org/abs/2405.12689
     code: https://github.com/Linzwcs/PASTED
     image: ./assets/img/paper/Spot_AI.png
+
+  
+  - title: "Lost in Literalism: How Supervised Training Shapes Translationese in LLMs"
+    authors: Yafu Li, Ronghao Zhang, <strong>Zhilin Wang</strong>, Huajian Zhang, Leyang Cui, Yongjing Yin, Tong Xiao, Yue Zhang
+    conference_short: ACL
+    pdf: https://arxiv.org/pdf/2503.04369
+    image: ./assets/img/paper/trans.jpg
 
   - title: "DETect: Deepfake Text Detection in the Wild"
     authors: Yafu Li, Qintong Li, Leyang Cui, Wei Bi, <strong>Zhilin Wang</strong>, Longyue Wang, Linyi Yang, Shuming Shi, Yue Zhang
