@@ -12,12 +12,11 @@ layout: homepage
 
 Hello, I’m Zhilin Wang, an undergraduate student at Jilin University. Previously, I studied as a visiting student under the supervision of [Yue Zhang](https://scholar.google.com/citations?user=6hA7WmUAAAAJ&hl=zh-CN) at WestlakeNLP. I am currently an incoming PhD student, under the supervision of [Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN), at the University of Science and Technology of China (USTC) and the Shanghai AI Lab.
 
-## Research Interests
+## Previous Research
 
 - **NLP application:** AI text detection, paraphrase
 - **LLM Structure:** MoE
-- **LLM training:** Continue Learning
-- **AI Infra**
+- **LLM training:** Continue Learning, Large Reasoning Model
 
 ## Projects
 
