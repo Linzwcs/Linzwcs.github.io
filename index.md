@@ -12,12 +12,6 @@ layout: homepage
 
 Hello, I’m Zhilin Wang, an undergraduate student at Jilin University. Previously, I studied as a visiting student under the supervision of [Yue Zhang](https://scholar.google.com/citations?user=6hA7WmUAAAAJ&hl=zh-CN) at WestlakeNLP. I am currently an incoming PhD student, under the supervision of [Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN), at the University of Science and Technology of China (USTC) and the Shanghai AI Lab.
 
-## Previous Research
-
-- **NLP application:** AI text detection, paraphrase
-- **LLM Structure:** MoE
-- **LLM training:** Continue Learning, Large Reasoning Model
-
 ## Projects
 
 - [PASTED](https://detect.westlake.edu.cn/ptd/): A paraphrased text span detection method, which recognizes the distinct writing patterns of AI-paraphrased spans compared to the surrounding text.<i class="fa fa-github" aria-hidden="true"></i> [Repo](https://github.com/Linzwcs/PASTED)
